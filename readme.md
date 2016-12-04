@@ -6,7 +6,7 @@ Notizen zu meinen Experimenten mit Bier.
 
 Als Software zur Berechnung der Rezepte benutze ich den [kleinen Brauhelfer](http://www.joerum.de/kleiner-brauhelfer/doku.php). Die dortige Anleitung hilft recht gut bei der Einrichtung. In der Software hinterlegt man die Maße der eigenen Gerätschaften, um leichter und präziser Berechnungen durchführen zu können (Sudhausausbeute, wieviel Liter sind gerade im Kessel?, usw.). Bei mir sieht das bspw. so aus:
 
-![Braugeräte-Einstellungen](img/braugeraet.png?raw=1)
+![Braugeräte-Einstellungen](img/brauanlage.png?raw=1)
 
 ## Literatur
 
@@ -47,11 +47,11 @@ Als sehr schnellen Einstieg und Überblick empfehle ich [Heimbrauen: Schritt fü
 
 Zum Import im kleinen Brauhelfer
 
-### [American Quince #1](rezepte/American%20Quince%20#1.xsud)
+### [American Quince #1](rezepte/American%20Quince%20%231.xsud)
 
 Ein Versuch ein IPA mit Quittengeschmack zu brauen. Kommt sehr nah ran, war aber herber als gewollt, trotzdem sehr lecker.
 
-### [American Quince #2](rezepte/American%20Quince%20#2.xsud)
+### [American Quince #2](rezepte/American%20Quince%20%232.xsud)
 
 Zweiter Versuch mit neutralerer Hefe und anderen Hopfensorten (noch nicht abgefüllt). Beim dritten Versuch soll Quittensaft benutzt werden, was dem Resultat auch einen niedrigeren PH-Wert bescheren dürfte.
 
