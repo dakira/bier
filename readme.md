@@ -12,7 +12,7 @@ Als Software zur Berechnung der Rezepte benutze ich den [kleinen Brauhelfer](htt
 
 Als sehr schnellen Einstieg und Überblick empfehle ich [Heimbrauen: Schritt für Schritt](https://www.amazon.de/-/dp/3418008062/) von Hagen Rudolph. Sobald ein Bedarf nach tieferem Verständnis entsteht, kann man mit [Heimbrauen für Fortgeschrittene](https://www.amazon.de/-/dp/3418007899/) vom selben Autoren weitermachen. Hintergründe über die *Szene* findet man in [Bier leben](https://www.amazon.de/-/dp/3499629461) von Olver Wesseloh.
 
-## Gerätschaften
+## Tools
 
 - Kessel: Profi Cook PC-EKA 1066 (27l), Plastik-Hahn gegen Edelstahl-Hahn ausgetauscht
 - Brau- und Gäreimer Maxi mit Matmill Läuterblech
