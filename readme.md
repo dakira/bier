@@ -53,8 +53,12 @@ Ein Versuch ein IPA mit Quittengeschmack zu brauen. Kommt sehr nah ran, war aber
 
 ### [American Quince #2](rezepte/American%20Quince%20%232.xsud)
 
-Zweiter Versuch mit neutralerer Hefe und anderen Hopfensorten (noch nicht abgefüllt). Beim dritten Versuch soll Quittensaft benutzt werden, was dem Resultat auch einen niedrigeren PH-Wert bescheren dürfte.
+Zweiter Versuch mit neutralerer Hefe und anderen Hopfensorten. Näher kommen wir wohl nicht an das gewünschte Resultat. Ist ein sehr leckeres Bier, was ernsthaft nach (eingemachter) Quitte schmeckt.
+
+### [American Quince #3](rezepte/American%20Quince%20%233.xsud)
+
+Dritter Versuch. Zutaten wie bei #2. Beim Brauen sind leider ein paar Dinge schiefgelaufen. Zu schnell erhitzt, Maltoserast übersprungen, schnell mit nem Liter Wasser wieder runtergekühlt. Es hat offenbar gereicht, um noch genug Maltose zu erzeugen. **Großer Unterschied:** 1,5l Quittensaft aus selbst eingekochten und abgeseiten Quitten zur Würze gegeben. **Ergebnis**: Auch nach mehrmaligem Filtern (sogar nach der Hauptgärung) hat man extrem viel Schwebstoffe im Bier. Nach der Reifung schmeckte das Resultat erstmal sauer und etwas merkwürdig. Ein halbes Jahr später war es ein spannendes Bier mit niedrigem pH-Wert.
 
 ### [Chinarillo](rezepte/Chinarillo.xsud)
 
-Das beste IPA, was wir bisher gebraut haben. Absolute Bombe.
+Das beste IPA, was wir bisher gebraut haben (mehrfach). Absolute Bombe, kann man nix falsch machen.
