@@ -57,7 +57,7 @@ Zweiter Versuch mit neutralerer Hefe und anderen Hopfensorten. Näher kommen wir
 
 ### [American Quince #3](rezepte/American%20Quince%20%233.xsud)
 
-Dritter Versuch. Zutaten wie bei #2. Beim Brauen sind leider ein paar Dinge schiefgelaufen. Zu schnell erhitzt, Maltoserast übersprungen, schnell mit nem Liter Wasser wieder runtergekühlt. Es hat offenbar gereicht, um noch genug Maltose zu erzeugen. **Großer Unterschied:** 1,5l Quittensaft aus selbst eingekochten und abgeseiten Quitten zur Würze gegeben. **Ergebnis**: Auch nach mehrmaligem Filtern (sogar nach der Hauptgärung) hat man extrem viel Schwebstoffe im Bier. Nach der Reifung schmeckte das Resultat erstmal sauer und etwas merkwürdig. Ein halbes Jahr später war es ein spannendes Bier mit niedrigem pH-Wert.
+Dritter Versuch. Zutaten wie bei #2. Beim Brauen sind leider ein paar Dinge schiefgelaufen. Zu schnell erhitzt, Maltoserast übersprungen, schnell mit nem Liter Wasser wieder runtergekühlt. Es hat offenbar gereicht, um noch genug Maltose zu erzeugen. **Großer Unterschied:** 1.5l Quittensaft aus selbst eingekochten und abgeseiten Quitten zur Würze gegeben. **Ergebnis**: Auch nach mehrmaligem Filtern (sogar nach der Hauptgärung) hat man extrem viel Schwebstoffe im Bier. Nach der Reifung schmeckte das Resultat erstmal sauer und etwas merkwürdig. Ein halbes Jahr später war es ein spannendes Bier mit niedrigem pH-Wert.
 
 ### [Chinarillo](rezepte/Chinarillo.xsud)
 
